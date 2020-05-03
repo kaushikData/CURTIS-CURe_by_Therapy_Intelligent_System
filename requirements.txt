@@ -1,0 +1,14 @@
+torch
+pytorch-pretrained-bert
+simpletransformers
+matplotlib
+seaborn
+numpy
+pandas
+re
+gensim
+nltk
+spacy
+sklearn
+scipy
+warnings
