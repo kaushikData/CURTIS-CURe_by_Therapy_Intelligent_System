@@ -5,6 +5,7 @@ Preparing an environment to run the code:
 2. Create a new virtual environment and install the required packages.
 conda create -n journaling_and_reflections python 
 conda activate journaling_and_reflections
+
 If using cuda:
 conda install pytorch cudatoolkit=10.0 -c pytorch
 
