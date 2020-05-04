@@ -20,17 +20,24 @@ conda install pytorch cudatoolkit=10.0 -c pytorch
 ```
 3. Install all requiremnts
 ```bash
-pip3 install -r requirements.txt (Python 3)
+python reflection.py
 ```
 ## Working Example Demo - For quickly running the code
 
 Click on [Working Example Demo](https://drive.google.com/file/d/1u4ZLaujaEDgyhdMd7_HXaytn7WFjjQHE/view?usp=sharing)
 
-### More about user inputsand outputs in the Demo:
+To run the model in your environment, just execute reflection.py file as shown in the demo
+```bash
+pip3 install -r requirements.txt (Python 3)
+```
+More about user inputsand outputs in the Demo:
 
 Input1: general - I am doing bad/feeling sad etc.
+
 Input2: Question/Journaling Entry
+
 Input3: Context of Question / More information about the Journaling Entry
+
 Final Output: Reflection for given Journaling Entry
 
 ## Notebooks:
