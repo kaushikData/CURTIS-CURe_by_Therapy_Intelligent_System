@@ -1,4 +1,4 @@
-#Preparing an environment to run the code:
+# Preparing an environment to run the code:
 
 1. Install Anaconda or Miniconda Package Manager from [here](anaconda.com/products/individual)
 
@@ -11,6 +11,6 @@ conda install pytorch cudatoolkit=10.0 -c pytorch
 
 3. pip3 install -r requirements.txt (Python 3)
 
-![Youper Demo](demo/Working Example.gif)
+! [Youper Demo](demo/Working Example.gif)
 
 
