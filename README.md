@@ -18,7 +18,7 @@ conda install pytorch cudatoolkit=10.0 -c pytorch
 ```
 3. Install all requirements
 ```bash
-pip3 install -r requirements.txt 
+pip install -r requirements.txt 
 ```
 ## Working Example Demo 
 
