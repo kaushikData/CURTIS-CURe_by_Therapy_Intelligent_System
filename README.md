@@ -1,6 +1,6 @@
 # Youper - Data Challenge
 
-### Please check the "Youper Data Challenge Report" file to learn more about preprocessing and modeling for this challenge.
+### Please check the "Youper Data Challenge Report" file to learn more about challenges, preprocessing and modeling for this challenge.
 
 ## Preparing an environment to run the code:
 
