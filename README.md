@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 ## Working Example Demo 
 
-Click on [Working Example Demo](https://drive.google.com/file/d/1u4ZLaujaEDgyhdMd7_HXaytn7WFjjQHE/view?usp=sharing)
+Click on [Working Example Demo](https://drive.google.com/open?id=1clXVx6GRkc8ndxbeiDWHL4sZI0OGYVDo)
 
 ### To run the model in your environment, just execute reflection.py file as shown in the demo
 ```bash
