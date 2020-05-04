@@ -20,7 +20,7 @@ conda install pytorch cudatoolkit=10.0 -c pytorch
 ```bash
 pip install -r requirements.txt 
 ```
-## Working Example Demo 
+## Working Examples Demo 
 
 Click on [Working Example Demo Example 1](https://drive.google.com/file/d/1hq7OuHmQ0GCe-TJezeXYTLdqsle0A4UC/view?usp=sharing)
 
@@ -44,6 +44,7 @@ Final Output: Reflection for given Journaling Entry
 ## Notebooks:
 
 I have explained my code in jupyter notebooks
+
 Order of Notebooks:
 1. Crawler.ipynb
 2. Data Preprocessing and Visualization.ipynb
@@ -51,21 +52,30 @@ Order of Notebooks:
 4. Contextual Similarity Model using BERT.ipynb
 
 ## Running all files from scratch
+
+Change the present working directory to source
 ```bash
 cd source
 ```
+Run crawler.py to crawl all the questions and answers from CouncilChat website
+
 ```bash
 python crawler.py
 ```
+Run preprocessing.py to generate reflections in the training data
 ```bash
 python preprocessing.py
 ```
+Run baseline.py to train and test the baseline chatbot
 ```bash
 python baseline.py
 ```
+Run contextual_similarity.py to train the current model and save contextual vectors to datafolder.
+
 ```bash
 python contextual_similarity.py
 ```
+Run reflections.py to test the chatbot
 ```bash
 python reflection.py
 ```
