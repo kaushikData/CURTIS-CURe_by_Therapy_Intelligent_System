@@ -5,7 +5,6 @@
 ## Preparing an environment to run the code:
 
 1. Install Anaconda or Miniconda Package Manager from [here](https://www.anaconda.com/products/individual)
-
 2. Create a new virtual environment and install the required packages:
 ```bash
 conda create -n journaling_and_reflections python
