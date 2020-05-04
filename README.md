@@ -62,5 +62,8 @@ python preprocessing.py
 python baseline.py
 ```
 ```bash
+python contextual_similarity.py
+```
+```bash
 python reflection.py
 ```
