@@ -21,11 +21,11 @@ conda install pytorch cudatoolkit=10.0 -c pytorch
 ```bash
 pip3 install -r requirements.txt (Python 3)
 ```
-## Working Example Demo - For quickly running the code
+## Working Example Demo 
 
 Click on [Working Example Demo](https://drive.google.com/file/d/1u4ZLaujaEDgyhdMd7_HXaytn7WFjjQHE/view?usp=sharing)
 
-To run the model in your environment, just execute reflection.py file as shown in the demo
+### To run the model in your environment, just execute reflection.py file as shown in the demo
 ```bash
 python reflection.py
 ```
