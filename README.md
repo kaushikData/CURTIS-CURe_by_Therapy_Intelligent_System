@@ -26,7 +26,7 @@ Click on [Working Example Demo](https://drive.google.com/file/d/1u4ZLaujaEDgyhdM
 
 ### To run the model in your environment, just execute reflection.py file as shown in the demo
 ```bash
-python reflection.py
+python source/reflection.py
 ```
 More about user inputsand outputs in the Demo:
 
