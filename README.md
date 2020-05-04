@@ -13,6 +13,6 @@ conda install pytorch cudatoolkit=10.0 -c pytorch
 
 test 
 
-![Youper Demo](https://drive.google.com/file/d/1u4ZLaujaEDgyhdMd7_HXaytn7WFjjQHE/view?usp=sharing)
+[Working Example Demo](https://drive.google.com/file/d/1u4ZLaujaEDgyhdMd7_HXaytn7WFjjQHE/view?usp=sharing)
 
 
