@@ -14,13 +14,12 @@ conda create -n journaling_and_reflections python
 conda activate journaling_and_reflections
 ```
 If using cuda:
-
 ```bash
 conda install pytorch cudatoolkit=10.0 -c pytorch
 ```
 3. Install all requiremnts
 ```bash
-python reflection.py
+pip3 install -r requirements.txt (Python 3)
 ```
 ## Working Example Demo - For quickly running the code
 
@@ -28,7 +27,7 @@ Click on [Working Example Demo](https://drive.google.com/file/d/1u4ZLaujaEDgyhdM
 
 To run the model in your environment, just execute reflection.py file as shown in the demo
 ```bash
-pip3 install -r requirements.txt (Python 3)
+python reflection.py
 ```
 More about user inputsand outputs in the Demo:
 
