@@ -1,6 +1,6 @@
 # Youper - Data Challenge
 
-### Please check the "Youper Data Challence Report" file to learn more about preprocessing and modelling for this challenge.
+### Please check the "Youper Data Challenge Report" file to learn more about preprocessing and modeling for this challenge.
 
 ## Preparing an environment to run the code:
 
@@ -16,7 +16,7 @@ If using cuda:
 ```bash
 conda install pytorch cudatoolkit=10.0 -c pytorch
 ```
-3. Install all requiremnts
+3. Install all requirements
 ```bash
 pip3 install -r requirements.txt 
 ```
@@ -30,7 +30,7 @@ python reflection.py
 ```
 More about user inputsand outputs in the Demo:
 
-Input1: general - example: I am doing bad/feeling sad etc.
+Input1: general - example: I am doing bad/feeling sad, etc.
 Input2: Question/Journaling Entry
 Input3: Context of Question / More information about the Journaling Entry
 Final Output: Reflection for given Journaling Entry
@@ -41,7 +41,7 @@ I have explained my code in jupyter notebooks
 Order of Notebooks:
 1. Crawler.ipynb
 2. Data Preprocessing and Visualization.ipynb
-3. Baseline Model - Fine Tuning - Multi Label Multi Class Classification Model.ipynb
+3. Baseline Model - Fine Tuning - Multi-Label Multi-Class Classification Model.ipynb
 4. Contextual Similarity Model using BERT.ipynb
 
 ## Running all files from scratch
