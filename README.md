@@ -14,9 +14,10 @@ conda create -n journaling_and_reflections python
 conda activate journaling_and_reflections
 ```
 If using cuda:
+
 ```bash
 conda install pytorch cudatoolkit=10.0 -c pytorch
-
+```
 3. Install all requiremnts
 ```bash
 pip3 install -r requirements.txt (Python 3)
@@ -49,11 +50,11 @@ cd source
 python crawler.py
 ```
 ```bash
-python 
+python preprocessing.py
 ```
 ```bash
-
+python baseline.py
 ```
 ```bash
-
+python reflection.py
 ```
