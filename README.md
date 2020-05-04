@@ -11,6 +11,6 @@ conda install pytorch cudatoolkit=10.0 -c pytorch
 
 3. pip3 install -r requirements.txt (Python 3)
 
-![alt text][logo]
+![Youper Demo](demo/Working Example.gif)
 
-[logo]: https://drive.google.com/file/d/1u4ZLaujaEDgyhdMd7_HXaytn7WFjjQHE/view?usp=sharing "Logo Title Text 2"
+
