@@ -28,7 +28,7 @@ Click on [Working Example Demo Example 2](https://drive.google.com/open?id=1PJun
 
 ## Quick Example 
 
-![Image description](../demo/Demo Example.png)
+![Image description](https://github.com/kaushikData/Reflection-Predictor-Youper/tree/master/demo/Demo-Example)
 
 ### To run the model in your environment, just execute reflection.py file as shown in the demo
 ```bash
