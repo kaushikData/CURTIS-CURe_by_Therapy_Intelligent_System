@@ -26,6 +26,10 @@ Click on [Working Example Demo Example 1](https://drive.google.com/file/d/1hq7Ou
 
 Click on [Working Example Demo Example 2](https://drive.google.com/open?id=1PJunqSUQAKhzPquBteV632Tl5mkU8c22)
 
+## Quick Example 
+
+![Image description](../demo/Demo Example.png)
+
 ### To run the model in your environment, just execute reflection.py file as shown in the demo
 ```bash
 python source/reflection.py
