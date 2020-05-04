@@ -31,7 +31,7 @@ python reflection.py
 ```
 More about user inputsand outputs in the Demo:
 
-Input1: general - I am doing bad/feeling sad etc.
+Input1: general - example: I am doing bad/feeling sad etc.
 
 Input2: Question/Journaling Entry
 
