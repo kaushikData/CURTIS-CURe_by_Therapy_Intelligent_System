@@ -1,6 +1,6 @@
-# Youper - Data Challenge
+# CURTIS - CURe by Therapy Intelligent System
 
-### Please check the "Youper Data Challenge Report" file to learn more about challenges, preprocessing and modeling for this challenge.
+### Curtis is an emotional bot which comforts users with  short, accurate, and empathetic responses using deep contextual NLP models.
 
 ## Preparing an environment to run the code:
 
