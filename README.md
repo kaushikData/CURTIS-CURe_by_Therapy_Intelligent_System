@@ -7,10 +7,10 @@
 1. Install Anaconda or Miniconda Package Manager from [here](https://www.anaconda.com/products/individual)
 2. Create a new virtual environment and install the required packages:
 ```bash
-conda create -n journaling_and_reflections python
+conda create -n CURTIS_reflections python
 ```
 ```bash
-conda activate journaling_and_reflections
+conda activate CURTIS_and_reflections
 ```
 If using cuda:
 ```bash
@@ -31,9 +31,9 @@ python source/reflection.py
 More about user inputsand outputs in the Demo:
 
 Input1: general - example: I am doing bad/feeling sad, etc.
-Input2: Question/Journaling Entry
-Input3: Context of Question / More information about the Journaling Entry
-Final Output: Reflection for given Journaling Entry
+Input2: Question/Problem
+Input3: Context of Question / More information about the problem
+Final Output: Reflection / Short Response
 
 ## Notebooks:
 
