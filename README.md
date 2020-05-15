@@ -10,7 +10,7 @@
 conda create -n CURTIS_reflections python
 ```
 ```bash
-conda activate CURTIS_and_reflections
+conda activate CURTIS_reflections
 ```
 If using cuda:
 ```bash
