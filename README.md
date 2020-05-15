@@ -75,4 +75,4 @@ python reflection.py
 ```
 ### Interface (In Progress)
 
-[![Alt text](https://www.youtube.com/watch?v=CTroNoxClQs)](https://www.youtube.com/watch?v=CTroNoxClQs)
+[![Click here to view the demo of interface](https://www.youtube.com/watch?v=CTroNoxClQs)](https://www.youtube.com/watch?v=CTroNoxClQs)
