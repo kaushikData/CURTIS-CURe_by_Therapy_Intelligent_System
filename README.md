@@ -20,12 +20,6 @@ conda install pytorch cudatoolkit=10.0 -c pytorch
 ```bash
 pip install -r requirements.txt 
 ```
-## Working Examples Demo 
-
-Click on [Working Example Demo Example 1](https://drive.google.com/file/d/1hq7OuHmQ0GCe-TJezeXYTLdqsle0A4UC/view?usp=sharing)
-
-Click on [Working Example Demo Example 2](https://drive.google.com/open?id=1PJunqSUQAKhzPquBteV632Tl5mkU8c22)
-
 ## Quick Example 
 
 ![Image description](https://github.com/kaushikData/Reflection-Predictor-Youper/blob/master/demo/Demo-Example.png)
