@@ -1,6 +1,6 @@
 # CURTIS - CURe by Therapy Intelligent System
 
-### Curtis is an emotional bot which comforts users with  short, accurate, and empathetic responses using deep contextual NLP models.
+### Curtis is an emotional health therapy bot which comforts users with short, accurate, and empathetic responses using deep contextual NLP models.
 
 ## Preparing an environment to run the code:
 
@@ -41,7 +41,7 @@ I have explained my code in jupyter notebooks
 
 Order of Notebooks:
 1. Crawler.ipynb
-2. Data Preprocessing and Visualization.ipynb
+2. Data Preprocessing.ipynb
 3. Baseline Model - Fine Tuning - Multi-Label Multi-Class Classification Model.ipynb
 4. Contextual Similarity Model using BERT.ipynb
 
