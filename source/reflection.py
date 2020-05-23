@@ -20,7 +20,7 @@ def main():
     model.eval()
     print ("CURTIS: Hey Kaushik, I am happy to have you here again!")
     _ = input("CURTIS: How are you?\nKaushik: ")
-    user_question = input("CURTIS: You are having a rough time \nYouper: What makes you feel like this?\nKaushik: ")
+    user_question = input("CURTIS: You are having a rough time \nCURTIS: What makes you feel like this?\nKaushik: ")
     user_question_context = input("CURTIS: Please provide more context for your problem\nKaushik: ")
     user_vec = get_contextual_vector(model, tokenizer, user_question, user_question_context)
     for i in range(df.shape[0]):
